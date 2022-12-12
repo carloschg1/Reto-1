@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<Departamentos>
+    <Departamento>
+        <Id_d>1</Id_d>
+        <Nombre_d>Comercial</Nombre_d>
+    </Departamento>
+    <Departamento>
+        <Id_d>2</Id_d>
+        <Nombre_d>COMPTABILITAT</Nombre_d>
+    </Departamento>    
+    <Departamento>
+        <Id_d>3</Id_d>
+        <Nombre_d>INFORMÀTICA</Nombre_d>
+    </Departamento>
+    <Departamento>
+        <Id_d>4</Id_d>
+        <Nombre_d>PERSONAL</Nombre_d>
+    </Departamento>
+</Departamentos>

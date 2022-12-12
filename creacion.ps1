@@ -1,5 +1,5 @@
-$file_groups=Import-Csv -Path Departamentos.csvç
-$file_users=Import-Csv -Path Empleados.csv
+$file_groups=Import-Csv -Path departamentos.csv
+$file_users=Import-Csv -Path empleados.csv
 
 foreach ($group in $file_groups) {
   New-LocalGroup -Name $group.Nombre -Description $group.Descripcion
